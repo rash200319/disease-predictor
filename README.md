@@ -5,4 +5,9 @@ day 01
 
 day 02
 --------------------
-2.model training
+2. model training
+
+day 03
+------------------------
+3. Advanced models and feature engineering
+   
